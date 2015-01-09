@@ -29,6 +29,9 @@ Expire rules for static content
 #### cross-domain-fonts.conf
 Cross domain webfont access
 
+#### web-fonts.conf
+Use this in place of cross-domain-fonts.conf if you are using only locally served webfonts.
+
 #### protect-system-files.conf
 Prevent clients from accessing hidden files and from accessing to backup/config/source files
 
