@@ -37,3 +37,6 @@ Prevent clients from accessing hidden files and from accessing to backup/config/
 
 #### cache-busting.conf
 Built-in filename-based cache busting *Note* you must have this configuration included for any Core project.
+
+#### php-fpm.conf
+Use the default fpm pool for the virtual host
